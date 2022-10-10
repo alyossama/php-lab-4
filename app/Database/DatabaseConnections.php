@@ -51,6 +51,7 @@ class DatabaseConnection
 
 
 //DDL statement used to create users table in the "test_db" database
+// create database test_db;
 
 // create table users(
 //     id int(11) auto_increment not null ,
